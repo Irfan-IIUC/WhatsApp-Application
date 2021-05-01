@@ -1,7 +1,6 @@
 package Server;
 
 
-
 import static Server.server.a1;
 import javax.swing.*;
 import javax.swing.border.*;
